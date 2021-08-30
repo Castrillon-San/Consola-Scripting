@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ConsolaScripting\ConsolaScripting\bin\Debug\netcoreapp3.1\ConsolaScripting.exe
+C:\Users\user\source\repos\ConsolaScripting\ConsolaScripting\bin\Debug\netcoreapp3.1\ConsolaScripting.deps.json
+C:\Users\user\source\repos\ConsolaScripting\ConsolaScripting\bin\Debug\netcoreapp3.1\ConsolaScripting.runtimeconfig.json
+C:\Users\user\source\repos\ConsolaScripting\ConsolaScripting\bin\Debug\netcoreapp3.1\ConsolaScripting.runtimeconfig.dev.json
+C:\Users\user\source\repos\ConsolaScripting\ConsolaScripting\bin\Debug\netcoreapp3.1\ConsolaScripting.dll
+C:\Users\user\source\repos\ConsolaScripting\ConsolaScripting\bin\Debug\netcoreapp3.1\ConsolaScripting.pdb
+C:\Users\user\source\repos\ConsolaScripting\ConsolaScripting\obj\Debug\netcoreapp3.1\ConsolaScripting.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ConsolaScripting\ConsolaScripting\obj\Debug\netcoreapp3.1\ConsolaScripting.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsolaScripting\ConsolaScripting\obj\Debug\netcoreapp3.1\ConsolaScripting.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsolaScripting\ConsolaScripting\obj\Debug\netcoreapp3.1\ConsolaScripting.dll
+C:\Users\user\source\repos\ConsolaScripting\ConsolaScripting\obj\Debug\netcoreapp3.1\ConsolaScripting.pdb
